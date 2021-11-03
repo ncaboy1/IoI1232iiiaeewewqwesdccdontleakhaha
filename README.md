@@ -1,1 +1,1 @@
-print("skid trying to use my lock kit")
+print("stop trying to use donis lock")
